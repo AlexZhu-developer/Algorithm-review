@@ -1,4 +1,4 @@
-public class App {
+public class recursionmaxnum {
  public int maxnum(int[] list){
     int a = 0;
     if(list.length == 2){
